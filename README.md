@@ -4,4 +4,6 @@ On a high level, this bot will provide a 'canned' response in reply to the last 
 
 Nothing fancy, but being able to see how code that I wrote works in the real-world is an awesome feeling!
 
+My twitter API keys are not being published for obvious reasons.
+
 ***
